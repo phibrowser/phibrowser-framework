@@ -1,0 +1,244 @@
+Phi Framework Binary License
+Version 1.0, November 12, 2026
+
+Copyright (c) 2026 Phinomenon Inc. All rights reserved.
+
+In plain words. Phi Framework is the compiled browser engine that Phi Browser
+is built on. We publish it as a binary because the open source Phi Browser
+clients need it to build and run. You may use it free of charge. You may pass
+it along unchanged, with this License and with credit to us. It is not open
+source. Do not modify it and do not take it apart, except where the law or a
+third-party license gives you that right. It comes with no warranty of any
+kind. Break these terms and your permission ends. This paragraph is a summary;
+the terms below are the License.
+
+1. Definitions
+
+"Framework" means Phi Framework in binary form, as published by us in an
+official release archive under version 1.0 of this License, including the
+files in that archive.
+
+"Phinomenon", "we" and "us" mean Phinomenon Inc.
+
+"You" means the person or organization exercising rights under this License.
+
+"Third-Party Components" means the third-party software included in the
+Framework, as listed in the Notices.
+
+"Notices" means the file THIRD_PARTY_NOTICES.html that we publish with the
+Framework.
+
+2. Acceptance
+
+You accept this License by exercising any right it grants. Nothing else gives
+you permission to copy, use or distribute the Framework, apart from any rights
+you hold under the terms of the service you obtained it from.
+
+3. What you may do
+
+Subject to and conditioned on your compliance with Sections 4 and 5, we grant
+you a worldwide, royalty-free, non-exclusive license under our copyrights in
+the Framework to:
+
+(a) download, copy, install and use the Framework; and
+
+(b) redistribute the Framework unmodified, either on its own or inside a
+product that you distribute.
+
+If you are an organization, your employees and contractors may exercise these
+rights on your behalf, including on build and test systems you control, and
+you are responsible for their compliance.
+
+You may not sublicense. Everyone who receives the Framework receives a license
+directly from us on these terms.
+
+We will not assert any patent we own or control against you for using or
+distributing the unmodified Framework in compliance with this License.
+
+4. Conditions for redistribution
+
+(a) As is. You must not change the Framework's executable code or resources.
+You may perform the ordinary steps needed to build and ship it: extract or
+re-archive it; place it in an application bundle, installer, package or
+container image; omit files that are not needed on the target platform or
+architecture; remove debug symbols and select architectures using standard
+platform tools; apply code signatures, notarization and store processing; and
+deliver it through update mechanisms that reproduce the same files on the
+user's device. Nothing else.
+
+(b) This License travels with it. Every copy you distribute must include, in
+the same archive, bundle or package, a complete copy of this License and of
+the Notices. You must not remove or alter any copyright, trademark, license or
+attribution notice in the Framework.
+
+(c) Credit. If you distribute the Framework as part of a product, the product
+must display the following acknowledgment where users would reasonably look
+for it, such as an About or credits screen or the documentation:
+
+"Built with Phi Framework from the Phi Browser project. Copyright Phinomenon
+Inc. Used under the Phi Framework Binary License.
+https://github.com/phibrowser/phibrowser-framework"
+
+If you only redistribute the unmodified release archive, keeping this License
+and the Notices inside it is enough.
+
+(d) Your product, your name. Give your product its own name. Do not use our
+names or logos for it, do not pass the Framework off as your own work, and do
+not suggest that we made, reviewed or endorse your product. Our names
+appearing inside the unmodified Framework is not a breach of this Section.
+
+(e) Same terms. You may distribute the Framework only under this License. You
+may not add terms that restrict or change the rights it gives, and you may not
+give any warranty or make any commitment on our behalf.
+
+5. What you must not do
+
+Except as Section 6 allows, you must not:
+
+(a) reverse engineer, decompile or disassemble the Framework, or otherwise
+attempt to derive its source code, algorithms or internal structure;
+
+(b) modify, adapt or translate the Framework, or create derivative works of
+it;
+
+(c) use any part of the Framework separately from the rest; or
+
+(d) remove, disable or circumvent any license or integrity check in the
+Framework.
+
+Each restriction in this Section is both a condition of the license in Section
+3 and a separate promise by you. You also agree not to knowingly help anyone
+else do these things.
+
+Ordinary development is not reverse engineering. Building against the
+Framework's published interfaces, debugging your own code that calls it,
+reading crash reports and stack traces, and observing the Framework's behavior
+and network traffic on systems you control are all permitted.
+
+6. What the restrictions do not reach
+
+(a) Rights the law gives you. Sections 5 and 9 do not apply to an act that
+applicable law entitles you to perform regardless of any license term, but
+only as far as that law requires. Where they apply to you, this includes
+Articles 5(3) and 6 of Directive 2009/24/EC and equivalent laws elsewhere. If
+you need interface information for interoperability, you can ask us at
+legal@phi.cc. This may be quicker, and it does not limit your rights.
+
+(b) Third-Party Components. The Framework contains Third-Party Components.
+This License governs the Framework as a whole, including our compiled form of
+those components. A Third-Party Component's own license applies in place of
+this License only where, and only as far as, that license requires. Nothing in
+this License restricts your rights in the source code of any Third-Party
+Component that you obtain under its own license.
+
+(c) LGPL libraries. The Framework includes libraries licensed under the GNU
+Lesser General Public License. Solely as needed to exercise your rights under
+that license in those libraries, and despite Sections 4 and 5, you may modify
+the Framework for your own use and reverse engineer it to debug those
+modifications. This does not permit you to distribute a modified Framework, or
+to use what you learn for any other purpose. The source code for those
+libraries, and our written offer for it, are at
+https://github.com/phibrowser/phibrowser-framework/blob/main/SOURCE.md.
+
+(d) The open source clients. This License does not apply to the Phi Browser
+client source code, which stays under its own license, and nothing here
+restricts your rights under that license. An application that contains the
+Framework is not, as a whole, open source.
+
+7. Ownership and reserved rights
+
+The Framework is licensed, not sold. We and our licensors keep all rights in
+it that this License does not expressly grant. This License grants only the
+rights it states, and nothing else is implied.
+
+This License grants no right to our names, logos or trademarks, except to
+reproduce the acknowledgment in Section 4(c) and to state truthfully, in plain
+text, that your product is built on Phi Framework.
+
+This License grants no access to any Phinomenon service. Accounts, AI
+features, sync and updates are covered by the Phi Terms of Use and are not
+part of the Framework. Components that the Framework downloads at run time are
+not part of the Framework either.
+
+This License grants no rights under any third party's patents or other rights.
+Some functions, including media formats, may require licenses from third
+parties, and obtaining them for your distribution is your responsibility.
+
+8. No support, and future versions
+
+We have no obligation to support, maintain, update or keep publishing the
+Framework. We may publish future versions under different terms. A version you
+have already received stays under the License it came with.
+
+9. Termination
+
+This License ends automatically if you breach Section 3, 4 or 5. If the breach
+is of Section 4, your rights are reinstated if you fix it within 30 days after
+you first become aware of it or we notify you, whichever is earlier, and it is
+the first time. A breach of Section 5 cannot be cured. Once your License has
+ended, obtaining another copy does not give you a new one unless we agree in
+writing.
+
+When this License ends you must stop using and distributing the Framework and
+delete the copies you control. Copies you distributed in compliance before
+that point are unaffected, and so is the license of anyone who received the
+Framework from you and complies with these terms. Sections 1, 5, 7 and 9 to 13
+continue to apply.
+
+10. No warranty
+
+THE FRAMEWORK IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND. TO THE FULLEST EXTENT PERMITTED BY LAW, PHINOMENON DISCLAIMS ALL
+WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, INCLUDING THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+YOU USE THE FRAMEWORK AT YOUR OWN RISK.
+
+11. Limitation of liability
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, PHINOMENON, ITS AFFILIATES AND ITS
+LICENSORS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR LOST PROFITS, DATA OR GOODWILL,
+ARISING OUT OF THIS LICENSE OR THE FRAMEWORK, HOWEVER CAUSED AND ON ANY THEORY
+OF LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY. THEIR TOTAL LIABILITY
+ARISING OUT OF THIS LICENSE OR THE FRAMEWORK WILL NOT EXCEED US$100.
+
+Nothing in this License excludes or limits liability that cannot be excluded
+or limited under applicable law, including liability for fraud, for death or
+personal injury caused by negligence, or for intent or gross negligence where
+the law so provides. If you are a consumer, you keep the statutory rights your
+local law gives you.
+
+12. Export
+
+You must comply with the export control and sanctions laws that apply to you,
+and you must not provide the Framework to anyone those laws prohibit from
+receiving it.
+
+13. Governing law and general terms
+
+This License is governed by the laws of the State of California and applicable
+United States federal law, without regard to conflict of laws rules. The
+United Nations Convention on Contracts for the International Sale of Goods
+does not apply. The state and federal courts located in Los Angeles County,
+California have exclusive jurisdiction over any dispute, and you consent to
+their jurisdiction, except that we may act to stop infringement or misuse of
+our intellectual property in any court that has jurisdiction. If you are a
+consumer, this Section does not take away the protection of mandatory laws of
+the country where you live.
+
+This License is the complete statement of the terms on which we license the
+Framework, with two exceptions. A separate written agreement signed by us
+prevails for the party that holds it. And if you received the Framework inside
+Phi Browser as distributed by us, the Phi Terms of Use govern your use of it,
+and this License applies only if you take the Framework out of that
+application or redistribute it.
+
+If any part of this License is held unenforceable, that part will be enforced
+to the fullest extent permitted and the rest stays in effect. Our not
+enforcing a term is not a waiver of it. You may not assign this License; we
+may assign it to a successor.
+
+Questions and permission requests: legal@phi.cc
+
+Phinomenon Inc., 28 Geary St, Suite 650 PMB 360, San Francisco, CA 94108,
+United States

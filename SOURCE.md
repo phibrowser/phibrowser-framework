@@ -1,18 +1,18 @@
 # Source code for third-party components
 
-Phi Framework is a compiled build of the Chromium engine with our own changes. Our own code in it is proprietary and is not published. The framework also contains third-party open source components, each under its own license. The full list, with every license text, is in [THIRD_PARTY_NOTICES.html](THIRD_PARTY_NOTICES.html).
+Phi Browser Framework is a compiled build of the Chromium engine with our own changes. Our own code in it is proprietary and is not published. The framework also contains third-party open source components, each under its own license. The full list, with every license text, is in [THIRD_PARTY_NOTICES.html](THIRD_PARTY_NOTICES.html).
 
 Some of those licenses entitle you to the source code of the component. This page says where to get it.
 
 ## Which Chromium version a release is built from
 
-Each release is built from one Chromium version. The version number is the name of the directory inside the framework bundle:
+Each release is built from one Chromium version. On macOS, the version number is the name of the directory inside the framework bundle:
 
 ```
 Phi Framework.framework/Versions/<Chromium version>/
 ```
 
-For example, Phi Framework 2.16.1 is built from Chromium 156.0.8078.93.
+For example, the macOS framework 2.16.1 is built from Chromium 156.0.8078.93.
 
 ## Where the source is
 

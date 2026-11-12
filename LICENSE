@@ -1,22 +1,24 @@
-Phi Framework Binary License
+Phi Browser Framework Binary License
 Version 1.0, November 12, 2026
 
 Copyright (c) 2026 Phinomenon Inc. All rights reserved.
 
-In plain words. Phi Framework is the compiled browser engine that Phi Browser
-is built on. We publish it as a binary because the open source Phi Browser
-clients need it to build and run. You may use it free of charge. You may pass
-it along unchanged, with this License and with credit to us. It is not open
-source. Do not modify it and do not take it apart, except where the law or a
-third-party license gives you that right. It comes with no warranty of any
-kind. Break these terms and your permission ends. This paragraph is a summary;
-the terms below are the License.
+In plain words. Phi Browser Framework is the compiled browser engine that Phi
+Browser is built on, on macOS and on Windows. We publish it as a binary
+because the open source Phi Browser clients,
+github.com/phibrowser/phibrowser-mac and github.com/phibrowser/phibrowser-win,
+need it to build and run. You may use it free of charge. You may pass it along
+unchanged, with this License and with credit to us. It is not open source. Do
+not modify it and do not take it apart, except where the law or a third-party
+license gives you that right. It comes with no warranty of any kind. Break
+these terms and your permission ends. This paragraph is a summary; the terms
+below are the License.
 
 1. Definitions
 
-"Framework" means Phi Framework in binary form, as published by us in an
-official release archive under version 1.0 of this License, including the
-files in that archive.
+"Framework" means Phi Browser Framework in binary form, for macOS or for
+Windows, as published by us in an official release archive under version 1.0
+of this License, including the files in that archive.
 
 "Phinomenon", "we" and "us" mean Phinomenon Inc.
 
@@ -75,8 +77,8 @@ attribution notice in the Framework.
 must display the following acknowledgment where users would reasonably look
 for it, such as an About or credits screen or the documentation:
 
-"Built with Phi Framework from the Phi Browser project. Copyright Phinomenon
-Inc. Used under the Phi Framework Binary License.
+"Built with Phi Browser Framework, part of the Phi Browser project. Copyright
+Phinomenon Inc. Used under the Phi Browser Framework Binary License.
 https://github.com/phibrowser/phibrowser-framework"
 
 If you only redistribute the unmodified release archive, keeping this License
@@ -141,9 +143,9 @@ libraries, and our written offer for it, are at
 https://github.com/phibrowser/phibrowser-framework/blob/main/SOURCE.md.
 
 (d) The open source clients. This License does not apply to the Phi Browser
-client source code, which stays under its own license, and nothing here
-restricts your rights under that license. An application that contains the
-Framework is not, as a whole, open source.
+client source code for macOS or Windows, which stays under its own license,
+and nothing here restricts your rights under that license. An application that
+contains the Framework is not, as a whole, open source.
 
 7. Ownership and reserved rights
 
@@ -153,7 +155,7 @@ rights it states, and nothing else is implied.
 
 This License grants no right to our names, logos or trademarks, except to
 reproduce the acknowledgment in Section 4(c) and to state truthfully, in plain
-text, that your product is built on Phi Framework.
+text, that your product is built on Phi Browser Framework.
 
 This License grants no access to any Phinomenon service. Accounts, AI
 features, sync and updates are covered by the Phi Terms of Use and are not
